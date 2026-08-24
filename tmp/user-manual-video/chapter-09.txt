@@ -1,0 +1,1 @@
+The Theme Builder controls the visual system without source-code changes. Select a preset, refine colors and fonts, choose the default display mode, then save and preview the public site.

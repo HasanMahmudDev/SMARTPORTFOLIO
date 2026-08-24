@@ -1,0 +1,1 @@
+To manage the portfolio, open your domain followed by slash admin and sign in. The dashboard summarizes projects, posts, messages, media, recent activity, and common actions.

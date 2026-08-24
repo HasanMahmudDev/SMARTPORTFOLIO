@@ -1,0 +1,1 @@
+Choose Posts to manage the blog. Create a new post, edit existing articles, and select draft, published, or archived status. Categories and tags help organize content.

@@ -1,0 +1,1 @@
+The about section presents a concise professional summary. Profile details, location, focus, and contact information are managed from the administration workspace.

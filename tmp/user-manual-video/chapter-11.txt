@@ -1,0 +1,1 @@
+SmartPortfolio combines a responsive public portfolio with a secure content workspace. Refer to the included documentation for installation, database setup, deployment, and complete administration guidance.

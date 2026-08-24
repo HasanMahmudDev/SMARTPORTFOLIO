@@ -1,0 +1,1 @@
+Choose Projects from the sidebar. Use Add new to create a project, or the row actions to edit existing content. Status and order control public visibility and presentation.

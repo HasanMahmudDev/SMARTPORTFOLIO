@@ -1,0 +1,1 @@
+Choose Pages to create additional public content. Add a page title, slug, body, status, and navigation settings. Published pages become available to portfolio visitors.
