@@ -6,8 +6,8 @@
   "scripts": {
     "install:all": "npm install",
     "dev": "concurrently -n API,WEB -c blue,green \"npm run dev -w server\" \"npm run dev -w client\"",
-    "build": "npm run build -w client && npm run build -w server",
-    "deploy:first": "npm run build && npm run setup:admin",
+    "build": "npm run build -w client && npm run build -w server && npm run setup:admin",
+    "deploy:first": "npm run build",
     "test": "npm run test -w server",
     "start": "npm run start -w server",
     "setup:admin": "npm run setup:admin -w server"
