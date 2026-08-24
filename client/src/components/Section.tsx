@@ -1,0 +1,1 @@
+export default function Section({id,title,subtitle,children,className=''}:{id:string;title:string;subtitle?:string;children:React.ReactNode;className?:string}){return <section id={id} className={`public-section ${className}`}><div className="site-container"><div className="section-heading"><span>{subtitle}</span><h2>{title}</h2></div>{children}</div></section>}
