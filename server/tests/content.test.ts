@@ -1,0 +1,2 @@
+import { describe,expect,it } from 'vitest'; import { cleanHtml } from '../src/utils/content.js'; import { safePayload } from '../src/services/crud.js';
+describe('content security',()=>{it('removes scripts and event handlers',()=>expect(cleanHtml('<p onclick="x()">Safe<script>alert(1)</script></p>')).toBe('<p>Safe</p>'));it('blocks protected database fields',()=>expect(safePayload({id:9,password_hash:'x',title:'Good'})).toEqual({title:'Good'}));});
